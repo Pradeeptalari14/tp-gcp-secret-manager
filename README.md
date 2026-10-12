@@ -1,8 +1,10 @@
 # 🔑 GCP Secret Manager Studio
 > Store and manage API keys and keys versions on Google Cloud. Generate secret replication configurations, access permission maps, and programmatic retrieval SDKs.
 
-[![Studio](https://img.shields.io/badge/Developer_Studio-Live-brightgreen)](https://pradeeptalari14.github.io/portfolio/tools/gcp-secret-manager/)
+[![Studio](https://img.shields.io/badge/Developer_Studio-Live-brightgreen)](https://pradeeptalari.me/tools/gcp-secret-manager/)
 [![Category](https://img.shields.io/badge/Category-automation-blue)]()
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
 
 ---
 
@@ -132,7 +134,10 @@ Sets up alerts for config drift flags, script exits failures, or system storage 
 
 | Resource | Link |
 |----------|------|
-| Interactive Studio | [Open →](https://pradeeptalari14.github.io/portfolio/tools/gcp-secret-manager/) |
-| All 91 Studios | [Dashboard →](https://pradeeptalari14.github.io/portfolio/tools/) |
+| Interactive Studio | [Open →](https://pradeeptalari.me/tools/gcp-secret-manager/) |
+| All 91 Studios | [Dashboard →](https://pradeeptalari.me/tools/) |
 
-*Part of [Talari Pradeep Developer Studio Portfolio](https://pradeeptalari14.github.io/portfolio)*
+*Part of [Talari Pradeep Developer Studio Portfolio](https://pradeeptalari.me)*
+
+---
+*Synchronized with [GCP Secret Manager Studio Studio](https://pradeeptalari.me/tools/gcp-secret-manager/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
